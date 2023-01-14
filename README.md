@@ -1,5 +1,4 @@
 # Case Study
-project 1
 
 Problem Statement 
 
